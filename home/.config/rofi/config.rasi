@@ -1,0 +1,15 @@
+configuration {
+  timeout {
+    action: "kb-cancel";
+    delay: 0;
+  }
+
+  filebrowser {
+    directories-first: true;
+    sorting-method: "name";
+  }
+
+  modi: "drun,ssh,combi";
+  combi-modi: "window,drun,ssh";
+}
+@theme "solarized"

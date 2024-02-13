@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Beeper
+Exec=/var/home/khalid/.local/bin/beeper-3.95.22x86_64.AppImage
+Terminal=false
+Type=Application
+Icon=/var/home/khalid/.local/share/icons/beeper.png
+StartupWMClass=Beeper
+X-AppImage-Version=240206gs9w02ysg
+Comment=Beeper: Unified Messenger
+Categories=Utility;
